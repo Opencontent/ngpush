@@ -5,7 +5,7 @@ class TemplateNgpush_xml_cleanOperator
 		/*!
 			Constructor, does nothing by default.
 		*/
-		function TemplateNgpush_xml_cleanOperator()
+		function __construct()
 		{
 		}
 
